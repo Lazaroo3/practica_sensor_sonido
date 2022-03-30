@@ -1,5 +1,5 @@
 int sensorPin=9;
-int valor:
+int valor;
 int valor_analogico;
 
 void setup(){
